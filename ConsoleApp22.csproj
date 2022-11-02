@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\BISMIYA\OneDrive\Desktop\INTERNSHIP\code challenge sql\c# cc6.cs" Link="c# cc6.cs" />
+  </ItemGroup>
+
+</Project>
